@@ -1,4 +1,4 @@
-# ForestFire 
+# Forest_Fire 
 ## Measures to Minimize Forest Fire Damage
 
 [Streamlit 링크]() <br/><br/>
@@ -10,7 +10,7 @@
 ## 1.프로젝트의 시작 (2023.05.22 ~ 2023.06.23)
 - 산불 피해 최소화 대책 
  
-## 2. 대회 목표 : 산불 예측 대응 체계를 위한 위험 예보 시스템 구축
+## 2. 프로젝트 목표 : 산불 예측 대응 체계를 위한 위험 예보 시스템 구축
 - 공공 데이터 API 를 통한 실시간 데이터 수집
 - 이미지 크롤링 및 딥러닝을 통한 예측 시스템 구축
 - 산불에 관련된 여러 변수들을 파악하여 회귀분석 진행
@@ -29,12 +29,12 @@
   + 국가정보자원관리원 
   + 공공 데이터
   + 지도
-  + 
+  
 ## 5. ERD (개체 관계 모델)
 ![screensh]()
 
 ## 6. 팀 구성
-- 사용언어 : Python : 3.9.13v
+- 사용언어 : Python : 3.9.13 / SPSS
 - 작업툴 : VS code
 - 인원 : 4명
 - 주요 업무 :
@@ -76,7 +76,7 @@
 - 프로젝트 파일을 다운로드 받습니다. 
 
 ```bash
-git clone https://github.com/ChoiJMS2/forestfire.git
+git clone https://github.com/sjohjun/Forest_Fire_Project.git
 ```
 
 - 프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)
